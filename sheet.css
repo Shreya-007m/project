@@ -1,0 +1,28 @@
+body{ 
+    background-color:aliceblue;
+}
+#box1{
+    height:300px;
+    width:300px;
+    float:left;
+}
+#box2{
+    height:300px;
+    width:300px;   
+    float:left;
+} 
+#box4{
+    height:300px;
+    width:300px;
+    float:left;
+}
+#box5{
+    height:300px;
+    width:300px;
+    float:left;
+} 
+img{
+
+    width:250px;
+    height:20px;
+}
